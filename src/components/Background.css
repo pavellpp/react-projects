@@ -1,0 +1,38 @@
+.background {
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(6, 9, 143);
+    padding: 20px;
+    font-size: 3em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 250px;
+}
+h2 {
+    margin-left: 300px;
+    color:rgb(6, 9, 143);
+}
+.right {
+    position: absolute;
+    right: 2px;
+    font-size: 4em;
+    color:rgb(247, 241, 241);
+    cursor: pointer;
+    background: none;
+}
+.left {
+    position: absolute;
+    left: 2px;
+    font-size: 4em;
+    color:rgb(247, 241, 241);
+    cursor: pointer;
+    background: none;
+}
+.arrow {
+    background: none;
+}

@@ -1,0 +1,17 @@
+body {
+    background-color:red;
+}
+.form {
+    font-size: 20px;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.code {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+}

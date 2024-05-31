@@ -1,0 +1,13 @@
+.footer {
+    color:rgb(171, 3, 3);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding:5px;
+    font-weight: bolder;
+    font-size: 2em;
+    margin:300px;
+}
+
